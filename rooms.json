@@ -1,0 +1,25 @@
+{
+     "rooms": [
+          {
+               "type": "basic",
+               "capacity": 2,
+               "number of beds": 1,
+               "size": "20m",
+               "price": "200$"
+          },
+          {
+               "type": "deluxe",
+               "capacity": 4,
+               "number of beds": 2,
+               "size": "30m",
+               "price": "300$"
+          },
+          {
+               "type": "suite",
+               "capacity": 6,
+               "number of beds": 3,
+               "size": "50m",
+               "price": "500$"
+          }
+     ]
+}
